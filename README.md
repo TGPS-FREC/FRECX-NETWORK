@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-## Frequency Blockchain is
+## Frequency Blockchain is POS network
 
 Frequency is an Enterprise ready Blockchain for eco green
 
