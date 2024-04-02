@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-## Frequency Blockchain
+## Frequency Blockchain is
 
 Frequency is an Enterprise ready Blockchain for eco green
 
