@@ -31,14 +31,14 @@ const (
 	HashLength    = 32
 	AddressLength = 20
 	BlockSigners  = "fre0000000000000000000000000000000000000089"
-	SettingAddr   = "fre4F649081165811FFf0529Af5583E65325A99259e"
+	SettingAddr   = "fre6a7de4d341cf9e9bacd1d82424a2a344fe435f35"
 	// BlockSigners                     = "frec3cbf092b0eb66da1021be3352d700f6a7ee2a06"
 	// MasternodeVotingSMC              = "fre0000000000000000000000000000000000000088"
-	MasternodeVotingSMC = "frede6e0009745acabda20e3aae478f2936f1d5e5a2"
+	MasternodeVotingSMC = "free7728ed0c8ff1634e87e2caeaf0f3d462075d311"
 	RandomizeSMC        = "fre0000000000000000000000000000000000000090"
 	// RandomizeSMC                     = "fre0decf8cdfd29f55756125f95edc23374c3b23a2f"
 	// FoudationAddr                    = "fre0000000000000000000000000000000000000068"
-	FoudationAddr                    = "frecA58Dbb565fD5eb9D04462928de094192dd85EDc"
+	FoudationAddr                    = "fre10dDC1547BF78aDd0bb14E417cC17304a075419F"
 	TeamAddr                         = "fre0000000000000000000000000000000000000099"
 	FREXAddr                         = "fre0000000000000000000000000000000000000091"
 	TradingStateAddr                 = "fre0000000000000000000000000000000000000092"
